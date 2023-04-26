@@ -1,0 +1,7 @@
+pathway,1544 CYP1A2,10 NAT2,9 NAT1,1548 CYP2A6,1549 CYP2A7,7498 XDH,31 ACACA,32 ACACB,9060 PAPSS2,9061 PAPSS1,1610 DAO,27349 MCAT,3101 HK3,3098 HK1,3099 HK2,80201 HKDC1,2645 GCK
+has00232 Caffeine metabolism ,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+has00254 Aflatoxin biosynthesis,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+has00261 Monobactam biosynthesis,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+has00311 Penicillin and cephalosporin biosynthesis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+has00333 Prodigiosin biosynthesis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"has00524 Neomycin, kanamycin and gentamicin biosynthesis ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1
