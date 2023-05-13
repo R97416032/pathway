@@ -1,0 +1,8 @@
+./csv/09100  Metabolism/09100  Metabolism.csv
+./csv/09120  Genetic Information Processing/09120  Genetic Information Processing.csv
+./csv/09130  Environmental Information Processing/09130  Environmental Information Processing.csv
+./csv/09140  Cellular Processes/09140  Cellular Processes.csv
+./csv/09150  Organismal Systems/09150  Organismal Systems.csv
+./csv/09160  Human Diseases/09160  Human Diseases.csv
+./csv/09180  Brite Hierarchies/09180  Brite Hierarchies.csv
+./csv/09190  Not Included in Pathway or Brite/09190  Not Included in Pathway or Brite.csv

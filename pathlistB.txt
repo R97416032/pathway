@@ -1,0 +1,56 @@
+./csv/09100  Metabolism/09101 Carbohydrate metabolism/09101 Carbohydrate metabolism.csv
+./csv/09100  Metabolism/09102 Energy metabolism/09102 Energy metabolism.csv
+./csv/09100  Metabolism/09103 Lipid metabolism/09103 Lipid metabolism.csv
+./csv/09100  Metabolism/09104 Nucleotide metabolism/09104 Nucleotide metabolism.csv
+./csv/09100  Metabolism/09105 Amino acid metabolism/09105 Amino acid metabolism.csv
+./csv/09100  Metabolism/09106 Metabolism of other amino acids/09106 Metabolism of other amino acids.csv
+./csv/09100  Metabolism/09107 Glycan biosynthesis and metabolism/09107 Glycan biosynthesis and metabolism.csv
+./csv/09100  Metabolism/09108 Metabolism of cofactors and vitamins/09108 Metabolism of cofactors and vitamins.csv
+./csv/09100  Metabolism/09109 Metabolism of terpenoids and polyketides/09109 Metabolism of terpenoids and polyketides.csv
+./csv/09100  Metabolism/09110 Biosynthesis of other secondary metabolites/09110 Biosynthesis of other secondary metabolites.csv
+./csv/09100  Metabolism/09111 Xenobiotics biodegradation and metabolism/09111 Xenobiotics biodegradation and metabolism.csv
+./csv/09100  Metabolism/09112 Not included in regular maps/09112 Not included in regular maps.csv
+./csv/09120  Genetic Information Processing/09121 Transcription/09121 Transcription.csv
+./csv/09120  Genetic Information Processing/09122 Translation/09122 Translation.csv
+./csv/09120  Genetic Information Processing/09123 Folding, sorting and degradation/09123 Folding, sorting and degradation.csv
+./csv/09120  Genetic Information Processing/09124 Replication and repair/09124 Replication and repair.csv
+./csv/09120  Genetic Information Processing/09125 Information processing in viruses/09125 Information processing in viruses.csv
+./csv/09130  Environmental Information Processing/09131 Membrane transport/09131 Membrane transport.csv
+./csv/09130  Environmental Information Processing/09132 Signal transduction/09132 Signal transduction.csv
+./csv/09130  Environmental Information Processing/09133 Signaling molecules and interaction/09133 Signaling molecules and interaction.csv
+./csv/09140  Cellular Processes/09141 Transport and catabolism/09141 Transport and catabolism.csv
+./csv/09140  Cellular Processes/09142 Cell motility/09142 Cell motility.csv
+./csv/09140  Cellular Processes/09143 Cell growth and death/09143 Cell growth and death.csv
+./csv/09140  Cellular Processes/09144 Cellular community - eukaryotes/09144 Cellular community - eukaryotes.csv
+./csv/09140  Cellular Processes/09145 Cellular community - prokaryotes/09145 Cellular community - prokaryotes.csv
+./csv/09150  Organismal Systems/09149 Aging/09149 Aging.csv
+./csv/09150  Organismal Systems/09151 Immune system/09151 Immune system.csv
+./csv/09150  Organismal Systems/09152 Endocrine system/09152 Endocrine system.csv
+./csv/09150  Organismal Systems/09153 Circulatory system/09153 Circulatory system.csv
+./csv/09150  Organismal Systems/09154 Digestive system/09154 Digestive system.csv
+./csv/09150  Organismal Systems/09155 Excretory system/09155 Excretory system.csv
+./csv/09150  Organismal Systems/09156 Nervous system/09156 Nervous system.csv
+./csv/09150  Organismal Systems/09157 Sensory system/09157 Sensory system.csv
+./csv/09150  Organismal Systems/09158 Development and regeneration/09158 Development and regeneration.csv
+./csv/09150  Organismal Systems/09159 Environmental adaptation/09159 Environmental adaptation.csv
+./csv/09160  Human Diseases/09161 Cancer overview/09161 Cancer overview.csv
+./csv/09160  Human Diseases/09162 Cancer specific types/09162 Cancer specific types.csv
+./csv/09160  Human Diseases/09163 Immune disease/09163 Immune disease.csv
+./csv/09160  Human Diseases/09164 Neurodegenerative disease/09164 Neurodegenerative disease.csv
+./csv/09160  Human Diseases/09165 Substance dependence/09165 Substance dependence.csv
+./csv/09160  Human Diseases/09166 Cardiovascular disease/09166 Cardiovascular disease.csv
+./csv/09160  Human Diseases/09167 Endocrine and metabolic disease/09167 Endocrine and metabolic disease.csv
+./csv/09160  Human Diseases/09171 Infectious disease bacterial/09171 Infectious disease bacterial.csv
+./csv/09160  Human Diseases/09172 Infectious disease viral/09172 Infectious disease viral.csv
+./csv/09160  Human Diseases/09174 Infectious disease parasitic/09174 Infectious disease parasitic.csv
+./csv/09160  Human Diseases/09175 Drug resistance antimicrobial/09175 Drug resistance antimicrobial.csv
+./csv/09160  Human Diseases/09176 Drug resistance antineoplastic/09176 Drug resistance antineoplastic.csv
+./csv/09180  Brite Hierarchies/09181 Protein families metabolism/09181 Protein families metabolism.csv
+./csv/09180  Brite Hierarchies/09182 Protein families genetic information processing/09182 Protein families genetic information processing.csv
+./csv/09180  Brite Hierarchies/09183 Protein families signaling and cellular processes/09183 Protein families signaling and cellular processes.csv
+./csv/09180  Brite Hierarchies/09184 RNA family/09184 RNA family.csv
+./csv/09180  Brite Hierarchies/09185 Viral protein families/09185 Viral protein families.csv
+./csv/09190  Not Included in Pathway or Brite/09191 Unclassified metabolism/09191 Unclassified metabolism.csv
+./csv/09190  Not Included in Pathway or Brite/09192 Unclassified genetic information processing/09192 Unclassified genetic information processing.csv
+./csv/09190  Not Included in Pathway or Brite/09193 Unclassified signaling and cellular processes/09193 Unclassified signaling and cellular processes.csv
+./csv/09190  Not Included in Pathway or Brite/09194 Poorly characterized/09194 Poorly characterized.csv

@@ -4,11 +4,11 @@ import csv
 rootpath="./data/"
 #生成每个B类别中通路中的基因频次表，行为通路名，列为基因名
 listA=os.listdir(rootpath)[0:-2]
+pathlistB=[]
 for i in listA:
     path=rootpath+i+'/'
     listB=os.listdir(path)
     pathways = []
-
     for j in listB:
         genenames = ['pathway']
         pathC=path+j+'/'
@@ -25,6 +25,7 @@ for i in listA:
         genenames=sorted(set(genenames),key=genenames.index)
         if not os.path.exists("./csv/"+i+'/'+j ):
             os.makedirs("./csv/"+i+'/'+j)
+        pathlistB.append("./csv/"+i+'/'+j+"/"+j+".csv")
         with open("./csv/"+i+'/'+j+"/"+j+".csv", "w",newline='') as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow(genenames)
@@ -36,7 +37,11 @@ for i in listA:
                     else:
                         temp.append((0))
                 writer.writerow(temp)
+with open("pathlistB.txt", "w",) as file:
+    for pb in pathlistB:
+        file.write(pb+'\n')
 #生成每个A类别中通路中的基因频次表，行为通路名，列为基因名
+pathlistA=[]
 for i in listA:
     path=rootpath+i+'/'
     listB=os.listdir(path)
@@ -57,6 +62,7 @@ for i in listA:
     genenames=sorted(set(genenames),key=genenames.index)
     if not os.path.exists("./csv/"+i ):
         os.makedirs("./csv/"+i)
+    pathlistA.append("./csv/"+i+'/'+i+".csv")
     with open("./csv/"+i+'/'+i+".csv", "w",newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(genenames)
@@ -68,3 +74,6 @@ for i in listA:
                 else:
                     temp.append((0))
             writer.writerow(temp)
+with open("pathlistA.txt", "w",) as file:
+    for pa in pathlistA:
+        file.write(pa+'\n')
